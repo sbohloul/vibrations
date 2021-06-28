@@ -1,0 +1,52 @@
+{
+    "atom": [
+        {
+            "symbol": "B",
+            "position": [0.0, 0.0, 0.0]
+        },
+        {
+            "symbol": "N",
+            "position": [0.25, 0.25, 0.25]
+        }
+    ],
+    "phonon": [
+        {
+            "waveVector": [0.0, 0.0, 0.0],
+            "mode": [
+                {
+                    "eigenvalue": 1.0,
+                    "eigenvector": [
+                        [1, 1, 1],
+                        [2, 2, 2]
+                    ]
+                },
+                {
+                    "eigenvalue": 1.0,
+                    "eigenvector": [
+                        [1, 1, 1],
+                        [2, 2, 2]
+                    ]
+                }                
+            ]
+        },
+        {
+            "waveVector": [0.1, 0.1, 0.1],
+            "mode": [
+                {
+                    "eigenvalue": 2.0,
+                    "eigenvector": [
+                        [1, 1, 1],
+                        [2, 2, 2]
+                    ]
+                },
+                {
+                    "eigenvalue": 2.0,
+                    "eigenvector": [
+                        [1, 1, 1],
+                        [2, 2, 2]
+                    ]
+                }                
+            ]
+        }        
+    ]
+}
